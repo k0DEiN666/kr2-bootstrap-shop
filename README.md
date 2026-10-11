@@ -47,7 +47,7 @@ pagination — постраничная навигация каталога
 breadcrumb — навигационная цепочка на странице товара
 Ссылка на опубликованную версию
 
-https://k0DEiN666.github.io/kr2-bootstrap-shop/
+https://k0dein666.github.io/kr2-bootstrap-shop/
 
 # Автор
 ФИО: Рохлина Виктория Андреевна
